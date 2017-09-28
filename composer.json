@@ -2,7 +2,7 @@
     "name": "davidcwhitfield/vat",
     "description": "Library for VAT related functions",
     "require-dev": {
-        "phpunit/phpunit": "^6.3"
+        "phpunit/phpunit": "^5.7"
     },
     "authors": [
         {
