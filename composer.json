@@ -1,0 +1,21 @@
+{
+    "name": "davidcwhitfield/vat",
+    "description": "Library for VAT related functions",
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "David Curtis-Whitfield",
+            "email": "david@venditan.com"
+        }
+    ],
+    "require": {
+        "league/iso3166": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+	    "Venditan\\VAT\\": "src/Venditan/VAT/"
+	}
+    }
+}
